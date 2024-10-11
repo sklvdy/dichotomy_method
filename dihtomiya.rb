@@ -1,4 +1,5 @@
---given function
+#given function
+
 def func(x)
   f = 7.22*x**5-4*x**2+10.7*x-100.2
   return f
